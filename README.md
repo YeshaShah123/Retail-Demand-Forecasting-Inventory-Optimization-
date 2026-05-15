@@ -31,20 +31,16 @@ The project analyzes historical retail sales data to identify demand trends, mon
 ## Dashboard Preview
 
 ### Executive KPI Dashboard
-
-![Executive KPI Dashboard](output/executive_dashboard_preview.png)
+![Executive KPI Dashboard](outputs/Executive_KPI_Dashboard.png)
 
 ### Sales & Demand Analytics
-
-![Sales & Demand Analytics](output/Sales_Demand_Analytics.png)
+![Sales & Demand Analytics](outputs/Sales_Demand_Analytics.png)
 
 ### Demand Forecasting
-
-![Demand Forecasting](output/Forecasting.png)
+![Demand Forecasting](outputs/Forecasting.png)
 
 ### Inventory Optimization
-
-![Inventory Optimization](output/Inventory_Optimization.png)
+![Inventory Optimization](outputs/Inventory_Optimization.png)
 
 ---
 
