@@ -1,0 +1,145 @@
+Forecast_Month,Category,Region,Forecast_Quantity,Forecast_Sales,Method
+2013-01-01,Furniture,Atlantic,123,15713.63,3-month moving average with seasonal adjustment
+2013-02-01,Furniture,Atlantic,125,15969.14,3-month moving average with seasonal adjustment
+2013-03-01,Furniture,Atlantic,127,16224.64,3-month moving average with seasonal adjustment
+2013-04-01,Furniture,Atlantic,129,16480.15,3-month moving average with seasonal adjustment
+2013-05-01,Furniture,Atlantic,130,16607.9,3-month moving average with seasonal adjustment
+2013-06-01,Furniture,Atlantic,132,16863.41,3-month moving average with seasonal adjustment
+2012-12-01,Furniture,Northwest Territories,64,9888.34,3-month moving average with seasonal adjustment
+2013-01-01,Furniture,Northwest Territories,65,10042.84,3-month moving average with seasonal adjustment
+2013-02-01,Furniture,Northwest Territories,66,10197.35,3-month moving average with seasonal adjustment
+2013-03-01,Furniture,Northwest Territories,67,10351.85,3-month moving average with seasonal adjustment
+2013-04-01,Furniture,Northwest Territories,68,10506.36,3-month moving average with seasonal adjustment
+2013-05-01,Furniture,Northwest Territories,68,10506.36,3-month moving average with seasonal adjustment
+2013-01-01,Furniture,Ontario,135,18741.91,3-month moving average with seasonal adjustment
+2013-02-01,Furniture,Ontario,137,19019.57,3-month moving average with seasonal adjustment
+2013-03-01,Furniture,Ontario,139,19297.23,3-month moving average with seasonal adjustment
+2013-04-01,Furniture,Ontario,141,19574.89,3-month moving average with seasonal adjustment
+2013-05-01,Furniture,Ontario,143,19852.55,3-month moving average with seasonal adjustment
+2013-06-01,Furniture,Ontario,145,20130.2,3-month moving average with seasonal adjustment
+2013-01-01,Furniture,Prarie,91,7230.51,3-month moving average with seasonal adjustment
+2013-02-01,Furniture,Prarie,93,7389.42,3-month moving average with seasonal adjustment
+2013-03-01,Furniture,Prarie,94,7468.88,3-month moving average with seasonal adjustment
+2013-04-01,Furniture,Prarie,95,7548.34,3-month moving average with seasonal adjustment
+2013-05-01,Furniture,Prarie,97,7707.25,3-month moving average with seasonal adjustment
+2013-06-01,Furniture,Prarie,98,7786.7,3-month moving average with seasonal adjustment
+2013-01-01,Furniture,Quebec,117,14234.68,3-month moving average with seasonal adjustment
+2013-02-01,Furniture,Quebec,118,14356.35,3-month moving average with seasonal adjustment
+2013-03-01,Furniture,Quebec,120,14599.68,3-month moving average with seasonal adjustment
+2013-04-01,Furniture,Quebec,122,14843.0,3-month moving average with seasonal adjustment
+2013-05-01,Furniture,Quebec,124,15086.33,3-month moving average with seasonal adjustment
+2013-06-01,Furniture,Quebec,125,15207.99,3-month moving average with seasonal adjustment
+2013-01-01,Furniture,West,292,23842.71,3-month moving average with seasonal adjustment
+2013-02-01,Furniture,West,296,24169.32,3-month moving average with seasonal adjustment
+2013-03-01,Furniture,West,300,24495.93,3-month moving average with seasonal adjustment
+2013-04-01,Furniture,West,305,24904.2,3-month moving average with seasonal adjustment
+2013-05-01,Furniture,West,309,25230.81,3-month moving average with seasonal adjustment
+2013-06-01,Furniture,West,313,25557.42,3-month moving average with seasonal adjustment
+2013-01-01,Furniture,Yukon,52,8867.31,3-month moving average with seasonal adjustment
+2013-02-01,Furniture,Yukon,53,9037.83,3-month moving average with seasonal adjustment
+2013-03-01,Furniture,Yukon,53,9037.83,3-month moving average with seasonal adjustment
+2013-04-01,Furniture,Yukon,54,9208.36,3-month moving average with seasonal adjustment
+2013-05-01,Furniture,Yukon,55,9378.88,3-month moving average with seasonal adjustment
+2013-06-01,Furniture,Yukon,56,9549.41,3-month moving average with seasonal adjustment
+2013-01-01,Office Supplies,Atlantic,299,10055.62,3-month moving average with seasonal adjustment
+2013-02-01,Office Supplies,Atlantic,303,10190.14,3-month moving average with seasonal adjustment
+2013-03-01,Office Supplies,Atlantic,307,10324.66,3-month moving average with seasonal adjustment
+2013-04-01,Office Supplies,Atlantic,312,10492.82,3-month moving average with seasonal adjustment
+2013-05-01,Office Supplies,Atlantic,316,10627.34,3-month moving average with seasonal adjustment
+2013-06-01,Office Supplies,Atlantic,321,10795.5,3-month moving average with seasonal adjustment
+2013-01-01,Office Supplies,Northwest Territories,110,8186.67,3-month moving average with seasonal adjustment
+2013-02-01,Office Supplies,Northwest Territories,111,8261.1,3-month moving average with seasonal adjustment
+2013-03-01,Office Supplies,Northwest Territories,113,8409.95,3-month moving average with seasonal adjustment
+2013-04-01,Office Supplies,Northwest Territories,115,8558.79,3-month moving average with seasonal adjustment
+2013-05-01,Office Supplies,Northwest Territories,116,8633.22,3-month moving average with seasonal adjustment
+2013-06-01,Office Supplies,Northwest Territories,118,8782.07,3-month moving average with seasonal adjustment
+2012-11-01,Office Supplies,Nunavut,93,4127.54,3-month moving average with seasonal adjustment
+2012-12-01,Office Supplies,Nunavut,95,4216.3,3-month moving average with seasonal adjustment
+2013-01-01,Office Supplies,Nunavut,96,4260.69,3-month moving average with seasonal adjustment
+2013-02-01,Office Supplies,Nunavut,98,4349.45,3-month moving average with seasonal adjustment
+2013-03-01,Office Supplies,Nunavut,99,4393.83,3-month moving average with seasonal adjustment
+2013-04-01,Office Supplies,Nunavut,100,4438.22,3-month moving average with seasonal adjustment
+2013-01-01,Office Supplies,Ontario,419,14229.84,3-month moving average with seasonal adjustment
+2013-02-01,Office Supplies,Ontario,425,14433.61,3-month moving average with seasonal adjustment
+2013-03-01,Office Supplies,Ontario,431,14637.38,3-month moving average with seasonal adjustment
+2013-04-01,Office Supplies,Ontario,437,14841.14,3-month moving average with seasonal adjustment
+2013-05-01,Office Supplies,Ontario,443,15044.91,3-month moving average with seasonal adjustment
+2013-06-01,Office Supplies,Ontario,450,15282.64,3-month moving average with seasonal adjustment
+2013-01-01,Office Supplies,Prarie,506,10235.87,3-month moving average with seasonal adjustment
+2013-02-01,Office Supplies,Prarie,513,10377.48,3-month moving average with seasonal adjustment
+2013-03-01,Office Supplies,Prarie,521,10539.31,3-month moving average with seasonal adjustment
+2013-04-01,Office Supplies,Prarie,528,10680.91,3-month moving average with seasonal adjustment
+2013-05-01,Office Supplies,Prarie,536,10842.74,3-month moving average with seasonal adjustment
+2013-06-01,Office Supplies,Prarie,543,10984.35,3-month moving average with seasonal adjustment
+2013-01-01,Office Supplies,Quebec,145,5469.84,3-month moving average with seasonal adjustment
+2013-02-01,Office Supplies,Quebec,147,5545.29,3-month moving average with seasonal adjustment
+2013-03-01,Office Supplies,Quebec,149,5620.73,3-month moving average with seasonal adjustment
+2013-04-01,Office Supplies,Quebec,151,5696.18,3-month moving average with seasonal adjustment
+2013-05-01,Office Supplies,Quebec,153,5771.62,3-month moving average with seasonal adjustment
+2013-06-01,Office Supplies,Quebec,155,5847.07,3-month moving average with seasonal adjustment
+2013-01-01,Office Supplies,West,716,19981.1,3-month moving average with seasonal adjustment
+2013-02-01,Office Supplies,West,727,20288.07,3-month moving average with seasonal adjustment
+2013-03-01,Office Supplies,West,738,20595.05,3-month moving average with seasonal adjustment
+2013-04-01,Office Supplies,West,748,20874.11,3-month moving average with seasonal adjustment
+2013-05-01,Office Supplies,West,759,21181.08,3-month moving average with seasonal adjustment
+2013-06-01,Office Supplies,West,769,21460.15,3-month moving average with seasonal adjustment
+2013-01-01,Office Supplies,Yukon,134,3960.84,3-month moving average with seasonal adjustment
+2013-02-01,Office Supplies,Yukon,136,4019.95,3-month moving average with seasonal adjustment
+2013-03-01,Office Supplies,Yukon,138,4079.07,3-month moving average with seasonal adjustment
+2013-04-01,Office Supplies,Yukon,140,4138.19,3-month moving average with seasonal adjustment
+2013-05-01,Office Supplies,Yukon,142,4197.3,3-month moving average with seasonal adjustment
+2013-06-01,Office Supplies,Yukon,144,4256.42,3-month moving average with seasonal adjustment
+2013-01-01,Technology,Atlantic,92,8516.06,3-month moving average with seasonal adjustment
+2013-02-01,Technology,Atlantic,93,8608.62,3-month moving average with seasonal adjustment
+2013-03-01,Technology,Atlantic,95,8793.76,3-month moving average with seasonal adjustment
+2013-04-01,Technology,Atlantic,96,8886.32,3-month moving average with seasonal adjustment
+2013-05-01,Technology,Atlantic,97,8978.89,3-month moving average with seasonal adjustment
+2013-06-01,Technology,Atlantic,99,9164.02,3-month moving average with seasonal adjustment
+2013-01-01,Technology,Northwest Territories,55,5280.23,3-month moving average with seasonal adjustment
+2013-02-01,Technology,Northwest Territories,55,5280.23,3-month moving average with seasonal adjustment
+2013-03-01,Technology,Northwest Territories,56,5376.23,3-month moving average with seasonal adjustment
+2013-04-01,Technology,Northwest Territories,57,5472.24,3-month moving average with seasonal adjustment
+2013-05-01,Technology,Northwest Territories,58,5568.24,3-month moving average with seasonal adjustment
+2013-06-01,Technology,Northwest Territories,59,5664.25,3-month moving average with seasonal adjustment
+2012-07-01,Technology,Nunavut,22,1563.33,3-month moving average with seasonal adjustment
+2012-08-01,Technology,Nunavut,22,1563.33,3-month moving average with seasonal adjustment
+2012-09-01,Technology,Nunavut,23,1634.39,3-month moving average with seasonal adjustment
+2012-10-01,Technology,Nunavut,23,1634.39,3-month moving average with seasonal adjustment
+2012-11-01,Technology,Nunavut,23,1634.39,3-month moving average with seasonal adjustment
+2012-12-01,Technology,Nunavut,23,1634.39,3-month moving average with seasonal adjustment
+2013-01-01,Technology,Ontario,127,13341.1,3-month moving average with seasonal adjustment
+2013-02-01,Technology,Ontario,129,13551.2,3-month moving average with seasonal adjustment
+2013-03-01,Technology,Ontario,131,13761.3,3-month moving average with seasonal adjustment
+2013-04-01,Technology,Ontario,133,13971.39,3-month moving average with seasonal adjustment
+2013-05-01,Technology,Ontario,135,14181.49,3-month moving average with seasonal adjustment
+2013-06-01,Technology,Ontario,137,14391.58,3-month moving average with seasonal adjustment
+2013-01-01,Technology,Prarie,191,26172.5,3-month moving average with seasonal adjustment
+2013-02-01,Technology,Prarie,194,26583.59,3-month moving average with seasonal adjustment
+2013-03-01,Technology,Prarie,197,26994.68,3-month moving average with seasonal adjustment
+2013-04-01,Technology,Prarie,200,27405.76,3-month moving average with seasonal adjustment
+2013-05-01,Technology,Prarie,203,27816.85,3-month moving average with seasonal adjustment
+2013-06-01,Technology,Prarie,206,28227.94,3-month moving average with seasonal adjustment
+2013-01-01,Technology,Quebec,90,15705.91,3-month moving average with seasonal adjustment
+2013-02-01,Technology,Quebec,91,15880.42,3-month moving average with seasonal adjustment
+2013-03-01,Technology,Quebec,92,16054.93,3-month moving average with seasonal adjustment
+2013-04-01,Technology,Quebec,94,16403.95,3-month moving average with seasonal adjustment
+2013-05-01,Technology,Quebec,95,16578.46,3-month moving average with seasonal adjustment
+2013-06-01,Technology,Quebec,96,16752.97,3-month moving average with seasonal adjustment
+2013-01-01,Technology,West,239,33294.33,3-month moving average with seasonal adjustment
+2013-02-01,Technology,West,243,33851.55,3-month moving average with seasonal adjustment
+2013-03-01,Technology,West,246,34269.47,3-month moving average with seasonal adjustment
+2013-04-01,Technology,West,250,34826.7,3-month moving average with seasonal adjustment
+2013-05-01,Technology,West,254,35383.93,3-month moving average with seasonal adjustment
+2013-06-01,Technology,West,257,35801.85,3-month moving average with seasonal adjustment
+2013-01-01,Technology,Yukon,91,11626.63,3-month moving average with seasonal adjustment
+2013-02-01,Technology,Yukon,93,11882.16,3-month moving average with seasonal adjustment
+2013-03-01,Technology,Yukon,94,12009.92,3-month moving average with seasonal adjustment
+2013-04-01,Technology,Yukon,95,12137.69,3-month moving average with seasonal adjustment
+2013-05-01,Technology,Yukon,97,12393.22,3-month moving average with seasonal adjustment
+2013-06-01,Technology,Yukon,98,12520.98,3-month moving average with seasonal adjustment
+2012-03-01,Furniture,Nunavut,65,8566.73,3-month moving average with seasonal adjustment
+2012-04-01,Furniture,Nunavut,66,8698.53,3-month moving average with seasonal adjustment
+2012-05-01,Furniture,Nunavut,67,8830.32,3-month moving average with seasonal adjustment
+2012-06-01,Furniture,Nunavut,68,8962.12,3-month moving average with seasonal adjustment
+2012-07-01,Furniture,Nunavut,69,9093.92,3-month moving average with seasonal adjustment
+2012-08-01,Furniture,Nunavut,70,9225.71,3-month moving average with seasonal adjustment

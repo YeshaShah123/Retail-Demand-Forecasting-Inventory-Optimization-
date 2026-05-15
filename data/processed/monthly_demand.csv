@@ -1,0 +1,1032 @@
+Month,Category,Region,Sales,Profit,Quantity
+2009-01-01,Furniture,Atlantic,44641.24,7090.96,208
+2009-01-01,Furniture,Northwest Territories,26133.39,-11053.6,30
+2009-01-01,Furniture,Ontario,56684.24,-244.64,443
+2009-01-01,Furniture,Prarie,22486.15,2045.06,220
+2009-01-01,Furniture,Quebec,17193.36,3587.32,99
+2009-01-01,Furniture,West,41358.17,2808.84,282
+2009-01-01,Furniture,Yukon,11.08,-8.93,4
+2009-01-01,Office Supplies,Atlantic,21023.16,8509.97,363
+2009-01-01,Office Supplies,Northwest Territories,1549.08,-513.62,173
+2009-01-01,Office Supplies,Nunavut,513.13,57.88,88
+2009-01-01,Office Supplies,Ontario,24667.61,2274.59,657
+2009-01-01,Office Supplies,Prarie,19709.14,696.48,768
+2009-01-01,Office Supplies,Quebec,2261.2,-439.59,230
+2009-01-01,Office Supplies,West,39574.79,12576.55,790
+2009-01-01,Office Supplies,Yukon,1861.47,-129.27,153
+2009-01-01,Technology,Atlantic,17814.74,3152.11,167
+2009-01-01,Technology,Northwest Territories,18272.68,7388.0,91
+2009-01-01,Technology,Nunavut,1285.37,514.07,42
+2009-01-01,Technology,Ontario,30984.64,3980.9,345
+2009-01-01,Technology,Prarie,61076.04,20297.02,256
+2009-01-01,Technology,Quebec,48043.43,-2212.13,10
+2009-01-01,Technology,West,16349.23,2546.38,109
+2009-01-01,Technology,Yukon,2809.63,-597.95,24
+2009-02-01,Furniture,Atlantic,22434.3,-1971.57,88
+2009-02-01,Furniture,Northwest Territories,15566.55,450.82,98
+2009-02-01,Furniture,Ontario,39417.26,425.05,311
+2009-02-01,Furniture,Prarie,27393.0,-1865.01,247
+2009-02-01,Furniture,West,36631.88,7087.07,309
+2009-02-01,Furniture,Yukon,1252.54,-4.81,37
+2009-02-01,Office Supplies,Atlantic,4473.09,106.0,179
+2009-02-01,Office Supplies,Northwest Territories,440.49,-142.11,80
+2009-02-01,Office Supplies,Ontario,18596.58,2691.94,403
+2009-02-01,Office Supplies,Prarie,10446.34,-798.85,576
+2009-02-01,Office Supplies,Quebec,1590.65,-220.86,98
+2009-02-01,Office Supplies,West,12528.5,1824.09,501
+2009-02-01,Office Supplies,Yukon,1434.89,-235.5,74
+2009-02-01,Technology,Atlantic,14530.52,3002.85,211
+2009-02-01,Technology,Northwest Territories,71.47,-62.73,14
+2009-02-01,Technology,Ontario,14699.92,1381.17,142
+2009-02-01,Technology,Prarie,16547.38,2356.74,169
+2009-02-01,Technology,Quebec,6150.95,-1941.98,44
+2009-02-01,Technology,West,56945.76,10825.09,372
+2009-02-01,Technology,Yukon,31328.56,7515.28,74
+2009-03-01,Furniture,Atlantic,19231.49,478.33,190
+2009-03-01,Furniture,Northwest Territories,74.3,-129.01,34
+2009-03-01,Furniture,Ontario,10544.14,-868.0,138
+2009-03-01,Furniture,Prarie,33321.03,363.72,258
+2009-03-01,Furniture,Quebec,15520.24,-819.7,105
+2009-03-01,Furniture,West,19109.59,3723.39,77
+2009-03-01,Furniture,Yukon,14984.41,819.35,74
+2009-03-01,Office Supplies,Atlantic,11449.29,3146.42,293
+2009-03-01,Office Supplies,Northwest Territories,5050.25,-541.75,48
+2009-03-01,Office Supplies,Nunavut,9620.82,-1759.58,6
+2009-03-01,Office Supplies,Ontario,22212.61,8372.99,559
+2009-03-01,Office Supplies,Prarie,13563.72,505.75,529
+2009-03-01,Office Supplies,Quebec,2118.3,312.45,94
+2009-03-01,Office Supplies,West,7246.69,-930.74,421
+2009-03-01,Office Supplies,Yukon,625.97,-813.17,50
+2009-03-01,Technology,Atlantic,117839.15,14771.01,251
+2009-03-01,Technology,Northwest Territories,2754.56,-501.99,85
+2009-03-01,Technology,Ontario,17385.59,2032.55,313
+2009-03-01,Technology,Prarie,34630.59,4937.05,302
+2009-03-01,Technology,Quebec,15156.74,2855.35,175
+2009-03-01,Technology,West,37612.87,-13168.67,195
+2009-03-01,Technology,Yukon,1576.36,17.21,61
+2009-04-01,Furniture,Atlantic,9952.42,-247.59,52
+2009-04-01,Furniture,Ontario,49159.2,-1549.71,341
+2009-04-01,Furniture,Prarie,37534.85,5238.13,362
+2009-04-01,Furniture,Quebec,19943.41,2292.35,205
+2009-04-01,Furniture,West,23835.12,-3152.71,141
+2009-04-01,Furniture,Yukon,7334.29,1195.0,41
+2009-04-01,Office Supplies,Atlantic,8905.1,1456.23,250
+2009-04-01,Office Supplies,Ontario,48369.6,14003.19,691
+2009-04-01,Office Supplies,Prarie,36208.81,9030.73,408
+2009-04-01,Office Supplies,Quebec,3905.7,336.85,195
+2009-04-01,Office Supplies,West,9618.2,609.0,619
+2009-04-01,Office Supplies,Yukon,9489.44,2240.27,106
+2009-04-01,Technology,Atlantic,10246.29,2123.2,227
+2009-04-01,Technology,Northwest Territories,2205.76,337.04,40
+2009-04-01,Technology,Ontario,28955.58,-161.56,258
+2009-04-01,Technology,Prarie,31035.08,7970.34,224
+2009-04-01,Technology,Quebec,4964.7,608.51,53
+2009-04-01,Technology,West,44801.92,-4275.18,201
+2009-04-01,Technology,Yukon,6810.99,1078.64,98
+2009-05-01,Furniture,Atlantic,10244.95,-823.35,92
+2009-05-01,Furniture,Ontario,15526.22,437.92,139
+2009-05-01,Furniture,Prarie,16618.18,1787.52,139
+2009-05-01,Furniture,Quebec,4434.98,-1166.87,46
+2009-05-01,Furniture,West,54330.71,9238.08,429
+2009-05-01,Furniture,Yukon,661.0,170.27,21
+2009-05-01,Office Supplies,Atlantic,4517.82,515.66,245
+2009-05-01,Office Supplies,Northwest Territories,7782.24,1136.2,36
+2009-05-01,Office Supplies,Ontario,13576.53,3216.47,469
+2009-05-01,Office Supplies,Prarie,15709.81,255.31,672
+2009-05-01,Office Supplies,Quebec,7915.67,-196.23,373
+2009-05-01,Office Supplies,West,11831.75,-1779.71,597
+2009-05-01,Office Supplies,Yukon,9554.75,1897.86,357
+2009-05-01,Technology,Atlantic,4289.46,-1234.82,119
+2009-05-01,Technology,Northwest Territories,241.71,-92.96,13
+2009-05-01,Technology,Ontario,20437.59,1587.03,305
+2009-05-01,Technology,Prarie,6256.53,475.47,190
+2009-05-01,Technology,Quebec,2183.09,-426.14,78
+2009-05-01,Technology,West,16747.52,1874.29,349
+2009-05-01,Technology,Yukon,7285.03,1163.35,160
+2009-06-01,Furniture,Atlantic,10796.75,899.65,187
+2009-06-01,Furniture,Northwest Territories,1246.09,-93.78,8
+2009-06-01,Furniture,Ontario,20342.74,1237.74,181
+2009-06-01,Furniture,Prarie,34117.69,2960.89,194
+2009-06-01,Furniture,Quebec,13919.22,1660.17,67
+2009-06-01,Furniture,West,16041.62,-1611.33,223
+2009-06-01,Furniture,Yukon,6739.15,-731.86,112
+2009-06-01,Office Supplies,Atlantic,7464.72,1160.53,462
+2009-06-01,Office Supplies,Northwest Territories,23792.93,10951.31,18
+2009-06-01,Office Supplies,Ontario,39202.59,11487.86,521
+2009-06-01,Office Supplies,Prarie,10537.35,2693.37,406
+2009-06-01,Office Supplies,Quebec,2947.35,501.86,206
+2009-06-01,Office Supplies,West,15005.1,-171.83,563
+2009-06-01,Office Supplies,Yukon,3719.45,426.77,226
+2009-06-01,Technology,Atlantic,11012.27,1629.34,118
+2009-06-01,Technology,Ontario,22096.55,1536.32,297
+2009-06-01,Technology,Prarie,4035.69,-41.67,124
+2009-06-01,Technology,Quebec,6335.88,-1894.21,80
+2009-06-01,Technology,West,14102.92,2039.42,183
+2009-07-01,Furniture,Atlantic,15168.85,-3832.3,222
+2009-07-01,Furniture,Northwest Territories,30.68,-37.39,15
+2009-07-01,Furniture,Ontario,41750.14,8664.1,248
+2009-07-01,Furniture,Prarie,21677.31,2060.16,176
+2009-07-01,Furniture,Quebec,7005.7,2346.35,94
+2009-07-01,Furniture,West,5869.68,-1253.6,56
+2009-07-01,Furniture,Yukon,5649.16,1560.19,53
+2009-07-01,Office Supplies,Atlantic,5566.16,429.22,400
+2009-07-01,Office Supplies,Northwest Territories,2240.37,-2413.53,197
+2009-07-01,Office Supplies,Ontario,21503.5,3276.9,639
+2009-07-01,Office Supplies,Prarie,33570.6,9892.82,479
+2009-07-01,Office Supplies,Quebec,2855.77,784.24,140
+2009-07-01,Office Supplies,West,21235.99,437.18,619
+2009-07-01,Office Supplies,Yukon,7999.12,-588.36,234
+2009-07-01,Technology,Atlantic,34382.52,4783.61,137
+2009-07-01,Technology,Northwest Territories,12593.91,2699.67,49
+2009-07-01,Technology,Ontario,7947.37,250.3,160
+2009-07-01,Technology,Prarie,21600.58,64.77,222
+2009-07-01,Technology,Quebec,6156.26,1487.68,50
+2009-07-01,Technology,West,97042.41,10910.47,500
+2009-07-01,Technology,Yukon,8657.89,226.95,125
+2009-08-01,Furniture,Atlantic,8138.7,-1549.26,87
+2009-08-01,Furniture,Northwest Territories,565.4,-227.19,32
+2009-08-01,Furniture,Ontario,351.27,-136.68,25
+2009-08-01,Furniture,Prarie,29583.08,420.05,167
+2009-08-01,Furniture,Quebec,8615.28,788.4,92
+2009-08-01,Furniture,West,66755.86,311.76,459
+2009-08-01,Furniture,Yukon,19092.85,1749.99,54
+2009-08-01,Office Supplies,Atlantic,2462.73,-2452.8,254
+2009-08-01,Office Supplies,Northwest Territories,14990.51,556.53,298
+2009-08-01,Office Supplies,Nunavut,623.36,19.46,10
+2009-08-01,Office Supplies,Ontario,8287.19,860.38,412
+2009-08-01,Office Supplies,Prarie,3518.39,-396.04,274
+2009-08-01,Office Supplies,Quebec,5404.07,690.04,273
+2009-08-01,Office Supplies,West,21710.87,1767.65,928
+2009-08-01,Office Supplies,Yukon,1318.07,-289.38,97
+2009-08-01,Technology,Atlantic,19052.53,3371.57,222
+2009-08-01,Technology,Northwest Territories,7383.92,2233.86,109
+2009-08-01,Technology,Ontario,16626.86,3463.64,174
+2009-08-01,Technology,Prarie,21958.16,3988.2,307
+2009-08-01,Technology,Quebec,6066.7,1247.03,116
+2009-08-01,Technology,West,61960.9,6139.61,429
+2009-08-01,Technology,Yukon,5288.03,-7873.98,61
+2009-09-01,Furniture,Atlantic,6733.64,-2792.12,58
+2009-09-01,Furniture,Northwest Territories,338.52,-17.75,22
+2009-09-01,Furniture,Ontario,22125.18,2295.49,276
+2009-09-01,Furniture,Prarie,38093.6,-6269.0,386
+2009-09-01,Furniture,Quebec,369.7,-265.74,43
+2009-09-01,Furniture,West,40056.23,4924.44,196
+2009-09-01,Furniture,Yukon,198.44,-87.46,2
+2009-09-01,Office Supplies,Atlantic,30185.78,8604.4,331
+2009-09-01,Office Supplies,Northwest Territories,3467.75,366.22,184
+2009-09-01,Office Supplies,Ontario,36452.89,12189.85,445
+2009-09-01,Office Supplies,Prarie,12982.66,-415.94,561
+2009-09-01,Office Supplies,Quebec,7048.55,1225.43,222
+2009-09-01,Office Supplies,West,19909.43,5737.17,771
+2009-09-01,Office Supplies,Yukon,1749.39,-61.88,245
+2009-09-01,Technology,Atlantic,11739.21,2434.82,246
+2009-09-01,Technology,Northwest Territories,6518.64,1113.49,107
+2009-09-01,Technology,Ontario,27030.31,7809.92,148
+2009-09-01,Technology,Prarie,15559.85,621.56,197
+2009-09-01,Technology,Quebec,296.84,-71.83,7
+2009-09-01,Technology,West,37123.66,7279.47,308
+2009-09-01,Technology,Yukon,7312.03,2031.51,50
+2009-10-01,Furniture,Atlantic,11148.51,-193.23,134
+2009-10-01,Furniture,Northwest Territories,2027.93,-10.45,33
+2009-10-01,Furniture,Nunavut,5586.33,80.44,49
+2009-10-01,Furniture,Ontario,26406.72,4976.36,257
+2009-10-01,Furniture,Prarie,10821.48,2778.62,94
+2009-10-01,Furniture,Quebec,1266.26,242.23,83
+2009-10-01,Furniture,West,19458.7,5963.63,156
+2009-10-01,Furniture,Yukon,10982.29,1304.88,70
+2009-10-01,Office Supplies,Atlantic,15974.39,425.04,448
+2009-10-01,Office Supplies,Northwest Territories,136.18,-6.55,35
+2009-10-01,Office Supplies,Nunavut,1702.37,154.45,102
+2009-10-01,Office Supplies,Ontario,27636.84,7593.64,212
+2009-10-01,Office Supplies,Prarie,34170.51,9176.77,809
+2009-10-01,Office Supplies,Quebec,41553.15,13887.78,335
+2009-10-01,Office Supplies,West,11834.42,1174.53,499
+2009-10-01,Office Supplies,Yukon,11.89,-6.12,9
+2009-10-01,Technology,Atlantic,27676.78,8955.78,62
+2009-10-01,Technology,Northwest Territories,19122.57,4185.9,98
+2009-10-01,Technology,Ontario,12039.59,1861.33,169
+2009-10-01,Technology,Prarie,18977.63,4897.07,238
+2009-10-01,Technology,Quebec,26132.83,4977.41,222
+2009-10-01,Technology,West,27003.77,-12007.78,93
+2009-10-01,Technology,Yukon,9884.13,-5183.72,8
+2009-11-01,Furniture,Atlantic,8534.18,-335.75,77
+2009-11-01,Furniture,Northwest Territories,413.86,39.29,50
+2009-11-01,Furniture,Ontario,25083.88,3321.68,296
+2009-11-01,Furniture,Prarie,23363.4,249.01,125
+2009-11-01,Furniture,Quebec,9572.77,-1215.6,40
+2009-11-01,Furniture,West,16423.52,2993.74,163
+2009-11-01,Furniture,Yukon,4454.61,-1312.02,62
+2009-11-01,Office Supplies,Atlantic,7421.36,1187.37,187
+2009-11-01,Office Supplies,Northwest Territories,4696.95,961.4,209
+2009-11-01,Office Supplies,Nunavut,248.26,93.8,16
+2009-11-01,Office Supplies,Ontario,20921.59,-1757.9,720
+2009-11-01,Office Supplies,Prarie,19359.91,2103.83,624
+2009-11-01,Office Supplies,Quebec,1905.55,-383.47,124
+2009-11-01,Office Supplies,West,2879.9,148.88,171
+2009-11-01,Office Supplies,Yukon,1726.65,-349.33,97
+2009-11-01,Technology,Atlantic,4025.16,102.56,79
+2009-11-01,Technology,Northwest Territories,10605.08,4861.92,81
+2009-11-01,Technology,Ontario,35762.93,7158.38,389
+2009-11-01,Technology,Prarie,8984.92,243.53,197
+2009-11-01,Technology,Quebec,2185.1,449.69,55
+2009-11-01,Technology,West,33555.14,-4127.2,205
+2009-11-01,Technology,Yukon,6808.72,1788.41,69
+2009-12-01,Furniture,Atlantic,42124.97,3932.27,275
+2009-12-01,Furniture,Ontario,15619.34,1098.52,144
+2009-12-01,Furniture,Prarie,7126.19,645.31,177
+2009-12-01,Furniture,Quebec,3743.29,-2920.43,90
+2009-12-01,Furniture,West,53977.21,-3019.11,258
+2009-12-01,Furniture,Yukon,19600.06,4877.54,65
+2009-12-01,Office Supplies,Atlantic,13044.09,4646.49,332
+2009-12-01,Office Supplies,Ontario,18360.83,1042.92,684
+2009-12-01,Office Supplies,Prarie,6465.57,217.83,571
+2009-12-01,Office Supplies,Quebec,10397.21,2085.04,344
+2009-12-01,Office Supplies,West,4972.63,943.14,260
+2009-12-01,Office Supplies,Yukon,1526.17,208.11,46
+2009-12-01,Technology,Atlantic,54146.94,10466.02,191
+2009-12-01,Technology,Northwest Territories,64.03,-58.34,9
+2009-12-01,Technology,Ontario,48873.84,8087.69,235
+2009-12-01,Technology,Prarie,23485.19,-1501.9,181
+2009-12-01,Technology,Quebec,55163.1,19371.82,157
+2009-12-01,Technology,West,30400.76,802.7,209
+2009-12-01,Technology,Yukon,6717.93,1717.89,47
+2010-01-01,Furniture,Atlantic,6196.58,-394.67,75
+2010-01-01,Furniture,Northwest Territories,6269.0,-1027.49,57
+2010-01-01,Furniture,Ontario,34175.99,222.43,243
+2010-01-01,Furniture,Prarie,2956.59,-218.3,125
+2010-01-01,Furniture,Quebec,25736.81,5029.84,128
+2010-01-01,Furniture,West,38775.98,5426.78,266
+2010-01-01,Furniture,Yukon,883.31,-79.96,4
+2010-01-01,Office Supplies,Atlantic,11542.15,2749.3,198
+2010-01-01,Office Supplies,Northwest Territories,9690.91,2982.88,130
+2010-01-01,Office Supplies,Ontario,10928.78,-1261.16,474
+2010-01-01,Office Supplies,Prarie,23416.5,320.28,618
+2010-01-01,Office Supplies,Quebec,7631.69,5.69,205
+2010-01-01,Office Supplies,West,12597.73,1005.41,574
+2010-01-01,Office Supplies,Yukon,8365.08,2859.45,129
+2010-01-01,Technology,Atlantic,34855.51,12101.1,185
+2010-01-01,Technology,Ontario,9484.31,1144.55,188
+2010-01-01,Technology,Prarie,31783.67,10733.16,245
+2010-01-01,Technology,Quebec,3506.15,-99.37,47
+2010-01-01,Technology,West,56921.27,6688.02,346
+2010-01-01,Technology,Yukon,808.67,-10.67,11
+2010-02-01,Furniture,Atlantic,10828.83,-1645.99,144
+2010-02-01,Furniture,Ontario,18414.31,292.53,254
+2010-02-01,Furniture,Prarie,24372.58,22.62,253
+2010-02-01,Furniture,Quebec,12296.49,-416.7,44
+2010-02-01,Furniture,West,26751.27,-308.46,267
+2010-02-01,Office Supplies,Atlantic,9812.37,-797.92,563
+2010-02-01,Office Supplies,Northwest Territories,6397.52,-613.44,196
+2010-02-01,Office Supplies,Nunavut,364.7,-303.64,62
+2010-02-01,Office Supplies,Ontario,13840.72,2291.51,405
+2010-02-01,Office Supplies,Prarie,20451.3,4763.11,410
+2010-02-01,Office Supplies,Quebec,3409.55,-259.73,254
+2010-02-01,Office Supplies,West,30733.38,7729.29,697
+2010-02-01,Office Supplies,Yukon,377.8,-157.05,62
+2010-02-01,Technology,Atlantic,6117.4,-292.31,86
+2010-02-01,Technology,Northwest Territories,38135.53,6710.02,97
+2010-02-01,Technology,Ontario,8040.64,-15.24,175
+2010-02-01,Technology,Prarie,23818.05,5844.74,184
+2010-02-01,Technology,Quebec,6332.26,1006.98,96
+2010-02-01,Technology,West,10448.78,2175.64,117
+2010-02-01,Technology,Yukon,637.04,-26.83,20
+2010-03-01,Furniture,Atlantic,16047.4,-457.29,139
+2010-03-01,Furniture,Northwest Territories,18911.37,1847.8,111
+2010-03-01,Furniture,Ontario,11437.1,637.85,170
+2010-03-01,Furniture,Prarie,12867.6,-1349.09,244
+2010-03-01,Furniture,Quebec,35274.54,-2000.99,187
+2010-03-01,Furniture,West,12823.85,-3163.88,149
+2010-03-01,Furniture,Yukon,5855.14,-1984.08,70
+2010-03-01,Office Supplies,Atlantic,5647.55,-872.35,260
+2010-03-01,Office Supplies,Northwest Territories,3355.03,567.57,141
+2010-03-01,Office Supplies,Nunavut,156.51,21.15,34
+2010-03-01,Office Supplies,Ontario,25450.78,2734.53,688
+2010-03-01,Office Supplies,Prarie,4909.29,-868.77,526
+2010-03-01,Office Supplies,Quebec,5189.76,-1093.35,255
+2010-03-01,Office Supplies,West,2865.91,202.76,158
+2010-03-01,Office Supplies,Yukon,2378.51,-574.61,77
+2010-03-01,Technology,Atlantic,12621.29,2661.15,193
+2010-03-01,Technology,Nunavut,820.28,-180.2,8
+2010-03-01,Technology,Ontario,13893.43,2212.65,178
+2010-03-01,Technology,Prarie,10592.6,2043.59,196
+2010-03-01,Technology,Quebec,2916.41,-9.55,55
+2010-03-01,Technology,West,10817.47,786.31,197
+2010-03-01,Technology,Yukon,2976.19,-44.52,25
+2010-04-01,Furniture,Atlantic,10523.54,-1091.12,131
+2010-04-01,Furniture,Northwest Territories,2569.69,535.16,36
+2010-04-01,Furniture,Nunavut,118.97,-0.06,12
+2010-04-01,Furniture,Ontario,23652.05,1767.81,182
+2010-04-01,Furniture,Prarie,6548.84,-614.3,111
+2010-04-01,Furniture,Quebec,14270.96,261.31,107
+2010-04-01,Furniture,West,59873.66,5433.63,326
+2010-04-01,Furniture,Yukon,6803.0,-1061.68,46
+2010-04-01,Office Supplies,Atlantic,6348.06,350.16,197
+2010-04-01,Office Supplies,Northwest Territories,1089.18,-4.73,61
+2010-04-01,Office Supplies,Ontario,7706.09,-1395.24,361
+2010-04-01,Office Supplies,Prarie,11428.8,1892.12,404
+2010-04-01,Office Supplies,Quebec,1140.96,34.58,108
+2010-04-01,Office Supplies,West,29836.46,6740.64,606
+2010-04-01,Office Supplies,Yukon,3030.3,-748.64,305
+2010-04-01,Technology,Atlantic,6037.51,-1355.54,39
+2010-04-01,Technology,Ontario,10188.97,1326.88,24
+2010-04-01,Technology,Prarie,10328.43,-3360.72,137
+2010-04-01,Technology,Quebec,4541.13,474.05,44
+2010-04-01,Technology,West,49110.54,8088.47,312
+2010-04-01,Technology,Yukon,1821.46,33.73,51
+2010-05-01,Furniture,Atlantic,16952.45,1829.3,181
+2010-05-01,Furniture,Northwest Territories,4717.76,670.13,57
+2010-05-01,Furniture,Ontario,2850.87,148.65,192
+2010-05-01,Furniture,Prarie,21041.2,304.15,129
+2010-05-01,Furniture,Quebec,19979.65,3597.46,157
+2010-05-01,Furniture,West,18490.53,3577.35,266
+2010-05-01,Furniture,Yukon,1209.17,-1052.79,33
+2010-05-01,Office Supplies,Atlantic,10791.93,1899.5,504
+2010-05-01,Office Supplies,Northwest Territories,4277.02,1272.25,116
+2010-05-01,Office Supplies,Ontario,9909.17,-876.11,634
+2010-05-01,Office Supplies,Prarie,6689.47,-941.06,470
+2010-05-01,Office Supplies,Quebec,8928.27,567.27,371
+2010-05-01,Office Supplies,West,16814.41,2047.55,802
+2010-05-01,Office Supplies,Yukon,3453.74,-12.32,175
+2010-05-01,Technology,Atlantic,12538.58,45.53,110
+2010-05-01,Technology,Northwest Territories,23306.12,7273.28,103
+2010-05-01,Technology,Ontario,19027.96,2470.17,313
+2010-05-01,Technology,Prarie,9522.16,2263.49,223
+2010-05-01,Technology,Quebec,10267.49,1382.69,185
+2010-05-01,Technology,West,36549.48,6910.86,333
+2010-05-01,Technology,Yukon,26216.87,9259.31,200
+2010-06-01,Furniture,Atlantic,24022.75,3186.01,118
+2010-06-01,Furniture,Northwest Territories,5474.84,-15.87,48
+2010-06-01,Furniture,Ontario,14237.56,-1423.04,173
+2010-06-01,Furniture,Prarie,7732.55,-505.38,126
+2010-06-01,Furniture,Quebec,11304.92,-892.69,59
+2010-06-01,Furniture,West,2991.63,-50.14,92
+2010-06-01,Furniture,Yukon,12567.52,965.51,90
+2010-06-01,Office Supplies,Atlantic,3513.15,398.2,156
+2010-06-01,Office Supplies,Northwest Territories,1572.94,-813.17,78
+2010-06-01,Office Supplies,Nunavut,1187.94,211.93,90
+2010-06-01,Office Supplies,Ontario,21378.92,6231.83,444
+2010-06-01,Office Supplies,Prarie,20162.77,4328.12,371
+2010-06-01,Office Supplies,Quebec,4100.13,544.74,314
+2010-06-01,Office Supplies,West,24963.9,3923.86,660
+2010-06-01,Office Supplies,Yukon,4088.76,-1757.36,143
+2010-06-01,Technology,Atlantic,10106.08,-121.15,196
+2010-06-01,Technology,Northwest Territories,1956.76,-301.53,123
+2010-06-01,Technology,Ontario,42266.21,12065.96,363
+2010-06-01,Technology,Prarie,1438.71,101.52,76
+2010-06-01,Technology,Quebec,2798.81,-517.14,141
+2010-06-01,Technology,West,59328.98,7418.25,402
+2010-06-01,Technology,Yukon,15884.84,3151.8,107
+2010-07-01,Furniture,Atlantic,3689.76,930.78,75
+2010-07-01,Furniture,Northwest Territories,671.16,-69.04,69
+2010-07-01,Furniture,Ontario,26695.22,-693.19,360
+2010-07-01,Furniture,Prarie,5273.93,-305.39,83
+2010-07-01,Furniture,Quebec,12216.63,-991.45,94
+2010-07-01,Furniture,West,30159.67,-2694.77,230
+2010-07-01,Furniture,Yukon,3680.77,-1576.14,75
+2010-07-01,Office Supplies,Atlantic,641.77,-326.93,129
+2010-07-01,Office Supplies,Northwest Territories,2119.6,586.31,168
+2010-07-01,Office Supplies,Ontario,23454.72,3290.82,586
+2010-07-01,Office Supplies,Prarie,12069.86,148.77,418
+2010-07-01,Office Supplies,Quebec,1598.66,-628.72,151
+2010-07-01,Office Supplies,West,18307.86,3193.39,567
+2010-07-01,Office Supplies,Yukon,5374.8,-889.32,237
+2010-07-01,Technology,Atlantic,9454.71,1959.18,143
+2010-07-01,Technology,Northwest Territories,593.32,28.99,29
+2010-07-01,Technology,Ontario,15774.42,2179.77,203
+2010-07-01,Technology,Prarie,12507.53,2138.55,193
+2010-07-01,Technology,Quebec,6591.62,737.55,148
+2010-07-01,Technology,West,23263.16,5241.83,197
+2010-07-01,Technology,Yukon,15746.32,3657.46,149
+2010-08-01,Furniture,Atlantic,17830.17,849.8,94
+2010-08-01,Furniture,Northwest Territories,10809.63,811.24,44
+2010-08-01,Furniture,Nunavut,146.69,4.43,21
+2010-08-01,Furniture,Ontario,9363.61,-122.59,209
+2010-08-01,Furniture,Prarie,35217.54,4081.24,238
+2010-08-01,Furniture,Quebec,24.36,10.04,3
+2010-08-01,Furniture,West,10388.35,-137.37,237
+2010-08-01,Furniture,Yukon,3632.6,-400.33,38
+2010-08-01,Office Supplies,Atlantic,17087.3,3153.9,582
+2010-08-01,Office Supplies,Northwest Territories,1304.44,220.46,212
+2010-08-01,Office Supplies,Nunavut,394.27,30.94,19
+2010-08-01,Office Supplies,Ontario,17104.44,3775.7,421
+2010-08-01,Office Supplies,Prarie,11546.84,1248.06,601
+2010-08-01,Office Supplies,Quebec,1412.29,-184.52,142
+2010-08-01,Office Supplies,West,9391.61,891.29,572
+2010-08-01,Office Supplies,Yukon,5266.71,508.58,127
+2010-08-01,Technology,Atlantic,10230.75,1333.77,91
+2010-08-01,Technology,Northwest Territories,5133.39,332.66,95
+2010-08-01,Technology,Ontario,7434.96,1056.86,262
+2010-08-01,Technology,Prarie,13242.01,970.13,314
+2010-08-01,Technology,Quebec,7682.75,-278.6,71
+2010-08-01,Technology,West,8206.37,2340.4,117
+2010-08-01,Technology,Yukon,5085.91,1366.69,48
+2010-09-01,Furniture,Atlantic,25008.9,2145.23,182
+2010-09-01,Furniture,Northwest Territories,1810.67,-541.87,7
+2010-09-01,Furniture,Ontario,70443.19,8869.4,450
+2010-09-01,Furniture,Prarie,5053.08,1010.61,39
+2010-09-01,Furniture,Quebec,7249.34,-724.05,57
+2010-09-01,Furniture,West,33991.75,-2901.04,368
+2010-09-01,Furniture,Yukon,6180.07,-1690.32,48
+2010-09-01,Office Supplies,Atlantic,8076.23,767.13,459
+2010-09-01,Office Supplies,Northwest Territories,305.36,-73.3,25
+2010-09-01,Office Supplies,Nunavut,89.55,-375.64,9
+2010-09-01,Office Supplies,Ontario,25692.65,8421.17,533
+2010-09-01,Office Supplies,Prarie,11523.57,2100.76,527
+2010-09-01,Office Supplies,Quebec,3543.52,405.44,158
+2010-09-01,Office Supplies,West,9004.64,1664.66,477
+2010-09-01,Office Supplies,Yukon,12957.78,2727.05,265
+2010-09-01,Technology,Atlantic,24797.63,2066.27,147
+2010-09-01,Technology,Northwest Territories,8609.83,1956.46,107
+2010-09-01,Technology,Nunavut,1078.49,252.66,27
+2010-09-01,Technology,Ontario,44739.09,15523.71,296
+2010-09-01,Technology,Prarie,27162.02,6608.75,333
+2010-09-01,Technology,Quebec,22462.97,8678.47,49
+2010-09-01,Technology,West,39709.94,-6453.53,341
+2010-09-01,Technology,Yukon,28853.0,-415.29,116
+2010-10-01,Furniture,Atlantic,21940.04,2484.64,173
+2010-10-01,Furniture,Ontario,38192.96,-3024.88,277
+2010-10-01,Furniture,Prarie,2020.89,-349.95,52
+2010-10-01,Furniture,Quebec,11951.08,-2103.02,172
+2010-10-01,Furniture,West,18030.85,-2257.52,220
+2010-10-01,Furniture,Yukon,1418.67,-1409.78,46
+2010-10-01,Office Supplies,Atlantic,10417.51,-650.99,374
+2010-10-01,Office Supplies,Northwest Territories,4150.83,-500.67,202
+2010-10-01,Office Supplies,Nunavut,261.54,-213.25,6
+2010-10-01,Office Supplies,Ontario,39475.8,11122.94,808
+2010-10-01,Office Supplies,Prarie,12386.19,-216.59,486
+2010-10-01,Office Supplies,Quebec,5906.31,718.75,253
+2010-10-01,Office Supplies,West,14905.47,1733.47,548
+2010-10-01,Office Supplies,Yukon,12953.7,4251.62,182
+2010-10-01,Technology,Atlantic,60949.07,17903.18,306
+2010-10-01,Technology,Northwest Territories,4119.01,500.79,98
+2010-10-01,Technology,Ontario,10685.12,861.63,166
+2010-10-01,Technology,Prarie,44134.74,4004.12,119
+2010-10-01,Technology,Quebec,19398.44,6336.8,84
+2010-10-01,Technology,West,31440.91,9234.77,289
+2010-10-01,Technology,Yukon,512.87,170.69,31
+2010-11-01,Furniture,Atlantic,1425.84,84.78,71
+2010-11-01,Furniture,Northwest Territories,12349.31,-982.84,78
+2010-11-01,Furniture,Ontario,5163.23,-789.74,83
+2010-11-01,Furniture,Prarie,38024.93,2320.1,270
+2010-11-01,Furniture,Quebec,11834.28,-2839.7,62
+2010-11-01,Furniture,West,4798.91,-1489.39,102
+2010-11-01,Furniture,Yukon,19189.93,1465.59,204
+2010-11-01,Office Supplies,Atlantic,7641.03,429.11,294
+2010-11-01,Office Supplies,Northwest Territories,2919.08,525.06,86
+2010-11-01,Office Supplies,Nunavut,821.51,-182.22,127
+2010-11-01,Office Supplies,Ontario,20769.08,1347.22,503
+2010-11-01,Office Supplies,Prarie,5935.8,303.56,394
+2010-11-01,Office Supplies,Quebec,4826.47,870.87,107
+2010-11-01,Office Supplies,West,19781.8,4087.44,659
+2010-11-01,Office Supplies,Yukon,9914.69,-299.9,193
+2010-11-01,Technology,Atlantic,12550.1,1407.23,132
+2010-11-01,Technology,Northwest Territories,7410.88,1046.46,49
+2010-11-01,Technology,Ontario,26739.9,4440.94,297
+2010-11-01,Technology,Prarie,11513.26,905.13,308
+2010-11-01,Technology,Quebec,7201.4,1181.72,147
+2010-11-01,Technology,West,38590.31,2690.43,235
+2010-11-01,Technology,Yukon,21268.61,6823.22,62
+2010-12-01,Furniture,Atlantic,32385.12,-1482.73,307
+2010-12-01,Furniture,Northwest Territories,291.66,-192.92,2
+2010-12-01,Furniture,Nunavut,14223.82,3424.22,30
+2010-12-01,Furniture,Ontario,28201.83,698.33,212
+2010-12-01,Furniture,Prarie,14822.56,-1931.02,152
+2010-12-01,Furniture,Quebec,21784.24,391.76,134
+2010-12-01,Furniture,West,20241.46,-4164.91,227
+2010-12-01,Furniture,Yukon,6027.55,-316.76,60
+2010-12-01,Office Supplies,Atlantic,16061.19,3348.96,319
+2010-12-01,Office Supplies,Northwest Territories,8972.4,3479.14,96
+2010-12-01,Office Supplies,Ontario,22984.99,1461.75,567
+2010-12-01,Office Supplies,Prarie,18632.15,16.89,621
+2010-12-01,Office Supplies,Quebec,28703.87,6891.39,319
+2010-12-01,Office Supplies,West,6044.85,1132.76,414
+2010-12-01,Office Supplies,Yukon,5212.94,1408.59,212
+2010-12-01,Technology,Atlantic,13737.83,638.1,210
+2010-12-01,Technology,Northwest Territories,883.75,7.93,21
+2010-12-01,Technology,Nunavut,12028.23,-547.61,25
+2010-12-01,Technology,Ontario,42819.44,9837.09,258
+2010-12-01,Technology,Prarie,13881.81,1036.4,266
+2010-12-01,Technology,Quebec,15724.76,3243.87,103
+2010-12-01,Technology,West,14837.3,2175.99,262
+2010-12-01,Technology,Yukon,9590.23,2201.97,111
+2011-01-01,Furniture,Atlantic,11635.9,-1333.64,133
+2011-01-01,Furniture,Northwest Territories,6277.32,-1013.17,70
+2011-01-01,Furniture,Ontario,10473.89,1505.76,165
+2011-01-01,Furniture,Prarie,30147.07,-1794.73,240
+2011-01-01,Furniture,Quebec,22365.71,2968.5,65
+2011-01-01,Furniture,West,12481.93,333.71,46
+2011-01-01,Furniture,Yukon,6474.59,-822.28,57
+2011-01-01,Office Supplies,Atlantic,14771.67,3410.66,256
+2011-01-01,Office Supplies,Northwest Territories,810.89,38.04,133
+2011-01-01,Office Supplies,Nunavut,845.32,33.67,21
+2011-01-01,Office Supplies,Ontario,14165.67,2341.85,488
+2011-01-01,Office Supplies,Prarie,8465.66,995.19,332
+2011-01-01,Office Supplies,Quebec,2411.23,-226.0,244
+2011-01-01,Office Supplies,West,9108.72,675.74,357
+2011-01-01,Office Supplies,Yukon,2753.09,513.47,177
+2011-01-01,Technology,Atlantic,10268.13,-738.26,57
+2011-01-01,Technology,Northwest Territories,5403.37,948.79,39
+2011-01-01,Technology,Nunavut,66.54,-46.03,10
+2011-01-01,Technology,Ontario,21456.99,1335.35,307
+2011-01-01,Technology,Prarie,15138.0,3458.52,125
+2011-01-01,Technology,Quebec,13963.98,4981.69,90
+2011-01-01,Technology,West,30305.82,238.47,161
+2011-01-01,Technology,Yukon,1675.74,-100.74,100
+2011-02-01,Furniture,Atlantic,11708.3,592.79,76
+2011-02-01,Furniture,Ontario,30690.71,1827.53,149
+2011-02-01,Furniture,Prarie,12830.04,-1033.9,128
+2011-02-01,Furniture,Quebec,8419.73,-1398.25,57
+2011-02-01,Furniture,West,21251.0,761.97,78
+2011-02-01,Furniture,Yukon,18630.08,645.21,114
+2011-02-01,Office Supplies,Atlantic,6680.09,-942.32,390
+2011-02-01,Office Supplies,Northwest Territories,139.81,-19.06,14
+2011-02-01,Office Supplies,Ontario,37751.79,11343.05,597
+2011-02-01,Office Supplies,Prarie,15642.61,2258.02,494
+2011-02-01,Office Supplies,Quebec,1017.09,-1439.15,166
+2011-02-01,Office Supplies,West,12889.98,1052.68,465
+2011-02-01,Office Supplies,Yukon,10164.71,-122.87,290
+2011-02-01,Technology,Atlantic,462.37,-120.05,27
+2011-02-01,Technology,Northwest Territories,756.15,-280.28,5
+2011-02-01,Technology,Ontario,31794.74,7628.36,303
+2011-02-01,Technology,Prarie,30654.99,-6817.9,232
+2011-02-01,Technology,Quebec,8033.18,1753.45,91
+2011-02-01,Technology,West,8904.62,-1906.12,201
+2011-02-01,Technology,Yukon,31468.15,7065.72,174
+2011-03-01,Furniture,Atlantic,7917.58,324.14,221
+2011-03-01,Furniture,Northwest Territories,6502.65,909.28,66
+2011-03-01,Furniture,Ontario,44349.48,-4604.49,211
+2011-03-01,Furniture,Prarie,15511.68,-2168.52,119
+2011-03-01,Furniture,Quebec,7715.13,-439.7,72
+2011-03-01,Furniture,West,8443.99,371.05,75
+2011-03-01,Furniture,Yukon,13200.9,4028.16,97
+2011-03-01,Office Supplies,Atlantic,5593.09,501.5,355
+2011-03-01,Office Supplies,Northwest Territories,8092.89,-1010.5,207
+2011-03-01,Office Supplies,Nunavut,3293.65,-868.14,54
+2011-03-01,Office Supplies,Ontario,2957.85,-688.78,404
+2011-03-01,Office Supplies,Prarie,27015.17,4354.18,570
+2011-03-01,Office Supplies,Quebec,1814.46,-426.98,219
+2011-03-01,Office Supplies,West,20354.81,5836.65,508
+2011-03-01,Office Supplies,Yukon,622.87,-168.37,57
+2011-03-01,Technology,Atlantic,10541.49,2231.11,82
+2011-03-01,Technology,Northwest Territories,17387.65,6907.61,35
+2011-03-01,Technology,Nunavut,184.99,-144.55,38
+2011-03-01,Technology,Ontario,7058.98,-843.72,103
+2011-03-01,Technology,Prarie,64363.12,23672.15,229
+2011-03-01,Technology,Quebec,4279.55,843.84,122
+2011-03-01,Technology,West,10395.67,2362.49,174
+2011-03-01,Technology,Yukon,8438.21,2265.15,90
+2011-04-01,Furniture,Atlantic,20480.94,2717.08,63
+2011-04-01,Furniture,Northwest Territories,11683.67,828.71,94
+2011-04-01,Furniture,Ontario,21771.74,-2341.95,182
+2011-04-01,Furniture,Prarie,18326.12,-647.72,112
+2011-04-01,Furniture,Quebec,258.79,110.93,13
+2011-04-01,Furniture,West,25837.52,2825.65,276
+2011-04-01,Furniture,Yukon,14372.78,710.41,78
+2011-04-01,Office Supplies,Atlantic,13194.29,-442.09,418
+2011-04-01,Office Supplies,Northwest Territories,2454.96,501.49,168
+2011-04-01,Office Supplies,Ontario,11510.82,136.08,736
+2011-04-01,Office Supplies,Prarie,8493.05,585.77,488
+2011-04-01,Office Supplies,Quebec,2122.0,-194.06,186
+2011-04-01,Office Supplies,West,19846.31,-208.09,724
+2011-04-01,Office Supplies,Yukon,634.07,58.47,32
+2011-04-01,Technology,Atlantic,28830.84,10398.45,88
+2011-04-01,Technology,Northwest Territories,701.46,-90.14,43
+2011-04-01,Technology,Ontario,25741.88,6984.87,294
+2011-04-01,Technology,Prarie,16009.39,2874.8,193
+2011-04-01,Technology,Quebec,8770.94,-45.39,111
+2011-04-01,Technology,West,37038.25,11473.33,316
+2011-04-01,Technology,Yukon,133.59,-130.36,8
+2011-05-01,Furniture,Atlantic,13059.03,397.13,75
+2011-05-01,Furniture,Northwest Territories,4244.81,693.8,60
+2011-05-01,Furniture,Nunavut,1815.49,782.91,46
+2011-05-01,Furniture,Ontario,23007.94,-469.71,226
+2011-05-01,Furniture,Prarie,24974.28,199.95,358
+2011-05-01,Furniture,Quebec,3617.64,-354.13,26
+2011-05-01,Furniture,West,40861.12,5138.91,301
+2011-05-01,Furniture,Yukon,5741.5,362.71,41
+2011-05-01,Office Supplies,Atlantic,3887.48,195.89,322
+2011-05-01,Office Supplies,Northwest Territories,2486.88,-36.68,217
+2011-05-01,Office Supplies,Nunavut,106.16,14.27,33
+2011-05-01,Office Supplies,Ontario,12473.7,-1297.69,539
+2011-05-01,Office Supplies,Prarie,10031.72,-390.68,759
+2011-05-01,Office Supplies,Quebec,2442.62,-951.32,247
+2011-05-01,Office Supplies,West,9076.74,-535.24,705
+2011-05-01,Office Supplies,Yukon,6786.51,2389.34,147
+2011-05-01,Technology,Atlantic,595.17,-156.83,75
+2011-05-01,Technology,Northwest Territories,1502.56,-107.14,38
+2011-05-01,Technology,Ontario,17970.1,3357.49,220
+2011-05-01,Technology,Prarie,13177.47,2529.19,226
+2011-05-01,Technology,Quebec,11836.31,2468.45,117
+2011-05-01,Technology,West,26640.19,4420.14,368
+2011-05-01,Technology,Yukon,26293.12,6934.48,137
+2011-06-01,Furniture,Atlantic,2672.07,-258.67,103
+2011-06-01,Furniture,Northwest Territories,5349.8,-1849.18,57
+2011-06-01,Furniture,Ontario,13636.06,2337.27,63
+2011-06-01,Furniture,Prarie,8881.11,1053.79,131
+2011-06-01,Furniture,Quebec,2152.32,-182.67,74
+2011-06-01,Furniture,West,10065.01,-1586.84,103
+2011-06-01,Furniture,Yukon,1025.88,-211.33,10
+2011-06-01,Office Supplies,Atlantic,17565.14,2978.98,392
+2011-06-01,Office Supplies,Northwest Territories,993.87,-330.22,213
+2011-06-01,Office Supplies,Nunavut,998.62,73.66,34
+2011-06-01,Office Supplies,Ontario,23210.84,827.19,625
+2011-06-01,Office Supplies,Prarie,8572.81,768.31,657
+2011-06-01,Office Supplies,Quebec,4005.08,369.81,265
+2011-06-01,Office Supplies,West,17184.3,2462.97,439
+2011-06-01,Office Supplies,Yukon,5552.85,-938.55,155
+2011-06-01,Technology,Atlantic,1851.01,-370.89,77
+2011-06-01,Technology,Northwest Territories,6468.84,965.27,67
+2011-06-01,Technology,Ontario,15553.72,1451.82,163
+2011-06-01,Technology,Prarie,33570.16,6425.92,241
+2011-06-01,Technology,Quebec,552.87,-64.82,20
+2011-06-01,Technology,West,16371.65,3631.66,175
+2011-06-01,Technology,Yukon,1506.84,-75.01,13
+2011-07-01,Furniture,Atlantic,689.49,-2.48,40
+2011-07-01,Furniture,Northwest Territories,965.69,-144.2,6
+2011-07-01,Furniture,Nunavut,3554.46,-1766.01,39
+2011-07-01,Furniture,Ontario,11961.3,-113.04,230
+2011-07-01,Furniture,Prarie,7630.21,1257.84,158
+2011-07-01,Furniture,West,27118.48,-2103.39,369
+2011-07-01,Furniture,Yukon,17.43,2.45,6
+2011-07-01,Office Supplies,Atlantic,1754.19,-187.33,327
+2011-07-01,Office Supplies,Northwest Territories,7221.35,1346.51,76
+2011-07-01,Office Supplies,Nunavut,59.38,-3.05,7
+2011-07-01,Office Supplies,Ontario,6344.7,165.83,551
+2011-07-01,Office Supplies,Prarie,7387.19,-787.56,548
+2011-07-01,Office Supplies,Quebec,7635.85,13.63,89
+2011-07-01,Office Supplies,West,25965.82,2725.63,597
+2011-07-01,Office Supplies,Yukon,3656.83,681.18,96
+2011-07-01,Technology,Atlantic,20060.58,8076.77,105
+2011-07-01,Technology,Northwest Territories,1763.6,455.37,42
+2011-07-01,Technology,Nunavut,4965.76,1198.97,30
+2011-07-01,Technology,Ontario,5139.42,659.11,155
+2011-07-01,Technology,Prarie,51852.31,16929.23,357
+2011-07-01,Technology,Quebec,5354.49,822.01,43
+2011-07-01,Technology,West,71537.98,14526.62,491
+2011-07-01,Technology,Yukon,15268.69,-6850.25,29
+2011-08-01,Furniture,Atlantic,9599.3,897.55,124
+2011-08-01,Furniture,Northwest Territories,30307.28,6767.9,163
+2011-08-01,Furniture,Nunavut,7662.92,1633.88,26
+2011-08-01,Furniture,Ontario,31032.88,-1103.23,150
+2011-08-01,Furniture,Prarie,2226.35,-457.27,73
+2011-08-01,Furniture,Quebec,27904.15,-1836.87,137
+2011-08-01,Furniture,West,35364.96,210.76,273
+2011-08-01,Office Supplies,Atlantic,12102.25,2417.72,221
+2011-08-01,Office Supplies,Northwest Territories,20426.52,1625.64,205
+2011-08-01,Office Supplies,Nunavut,237.42,77.58,53
+2011-08-01,Office Supplies,Ontario,4185.83,-2161.33,399
+2011-08-01,Office Supplies,Prarie,18897.91,3792.78,505
+2011-08-01,Office Supplies,Quebec,4186.36,-1059.84,168
+2011-08-01,Office Supplies,West,2689.33,-169.49,354
+2011-08-01,Office Supplies,Yukon,3566.85,1067.11,133
+2011-08-01,Technology,Atlantic,11433.89,2347.16,169
+2011-08-01,Technology,Northwest Territories,4920.05,534.05,89
+2011-08-01,Technology,Nunavut,5463.06,1011.44,41
+2011-08-01,Technology,Ontario,10216.33,1936.06,90
+2011-08-01,Technology,Prarie,18122.99,5116.62,126
+2011-08-01,Technology,Quebec,5449.51,868.35,71
+2011-08-01,Technology,West,7251.04,1163.18,174
+2011-08-01,Technology,Yukon,1331.3,-300.82,37
+2011-09-01,Furniture,Atlantic,5680.91,-1195.35,216
+2011-09-01,Furniture,Northwest Territories,5595.86,-584.37,65
+2011-09-01,Furniture,Ontario,15501.66,2892.22,207
+2011-09-01,Furniture,Prarie,18648.48,5439.48,96
+2011-09-01,Furniture,Quebec,27295.99,301.04,143
+2011-09-01,Furniture,West,15225.3,1469.4,148
+2011-09-01,Furniture,Yukon,6902.91,-604.58,46
+2011-09-01,Office Supplies,Atlantic,4247.66,646.99,427
+2011-09-01,Office Supplies,Northwest Territories,1057.57,-220.25,48
+2011-09-01,Office Supplies,Nunavut,520.64,-16.23,43
+2011-09-01,Office Supplies,Ontario,10636.37,2071.28,282
+2011-09-01,Office Supplies,Prarie,17315.46,2296.94,370
+2011-09-01,Office Supplies,Quebec,9276.81,1378.36,213
+2011-09-01,Office Supplies,West,19112.41,3948.07,430
+2011-09-01,Office Supplies,Yukon,2920.24,-746.64,285
+2011-09-01,Technology,Atlantic,3109.77,403.15,64
+2011-09-01,Technology,Northwest Territories,5472.12,-2816.34,4
+2011-09-01,Technology,Ontario,17661.24,3821.63,275
+2011-09-01,Technology,Prarie,18181.66,-653.78,274
+2011-09-01,Technology,Quebec,1124.24,-126.45,10
+2011-09-01,Technology,West,62604.4,16894.03,329
+2011-09-01,Technology,Yukon,7958.07,-1500.59,80
+2011-10-01,Furniture,Atlantic,3025.85,-120.76,69
+2011-10-01,Furniture,Northwest Territories,3881.89,-803.52,22
+2011-10-01,Furniture,Ontario,9469.83,-1559.37,70
+2011-10-01,Furniture,Prarie,33014.27,2480.08,205
+2011-10-01,Furniture,Quebec,14666.22,-923.82,92
+2011-10-01,Furniture,West,33991.88,5808.44,246
+2011-10-01,Furniture,Yukon,9752.25,3066.17,49
+2011-10-01,Office Supplies,Atlantic,2972.94,121.65,249
+2011-10-01,Office Supplies,Northwest Territories,5626.93,-1032.62,144
+2011-10-01,Office Supplies,Nunavut,282.07,140.01,39
+2011-10-01,Office Supplies,Ontario,24439.66,6746.18,618
+2011-10-01,Office Supplies,Prarie,22059.5,4161.42,606
+2011-10-01,Office Supplies,Quebec,9013.07,1830.08,251
+2011-10-01,Office Supplies,West,6519.94,1330.66,382
+2011-10-01,Office Supplies,Yukon,3676.76,196.3,122
+2011-10-01,Technology,Atlantic,9364.22,1612.77,85
+2011-10-01,Technology,Northwest Territories,22079.47,5322.14,12
+2011-10-01,Technology,Nunavut,426.04,-78.96,24
+2011-10-01,Technology,Ontario,10805.16,2642.82,121
+2011-10-01,Technology,Prarie,13275.53,2847.16,234
+2011-10-01,Technology,Quebec,4159.8,333.2,64
+2011-10-01,Technology,West,59678.96,14393.44,293
+2011-10-01,Technology,Yukon,3478.23,540.65,50
+2011-11-01,Furniture,Atlantic,1977.33,-571.8,50
+2011-11-01,Furniture,Northwest Territories,23249.8,7005.35,127
+2011-11-01,Furniture,Nunavut,5310.92,-640.61,90
+2011-11-01,Furniture,Ontario,27588.56,-3597.07,312
+2011-11-01,Furniture,Prarie,54495.6,11354.96,274
+2011-11-01,Furniture,Quebec,13923.05,270.13,106
+2011-11-01,Furniture,West,12816.22,1777.6,209
+2011-11-01,Furniture,Yukon,7654.45,650.72,51
+2011-11-01,Office Supplies,Atlantic,5234.51,-1.8,207
+2011-11-01,Office Supplies,Northwest Territories,19942.46,8756.02,97
+2011-11-01,Office Supplies,Ontario,10207.41,-1195.87,502
+2011-11-01,Office Supplies,Prarie,2666.43,139.03,173
+2011-11-01,Office Supplies,Quebec,4713.87,-700.41,212
+2011-11-01,Office Supplies,West,17755.32,4397.4,561
+2011-11-01,Office Supplies,Yukon,8233.87,3391.94,138
+2011-11-01,Technology,Atlantic,13588.53,2032.32,171
+2011-11-01,Technology,Northwest Territories,3310.95,822.4,35
+2011-11-01,Technology,Nunavut,3044.61,140.43,57
+2011-11-01,Technology,Ontario,28994.18,2501.54,320
+2011-11-01,Technology,Prarie,33750.73,7284.6,243
+2011-11-01,Technology,Quebec,7126.87,-137.96,139
+2011-11-01,Technology,West,47861.55,-10679.55,279
+2011-11-01,Technology,Yukon,14322.27,6560.65,44
+2011-12-01,Furniture,Atlantic,59208.41,7911.52,309
+2011-12-01,Furniture,Ontario,23351.87,126.98,323
+2011-12-01,Furniture,Prarie,7032.45,-2127.69,80
+2011-12-01,Furniture,Quebec,12988.94,-2800.29,207
+2011-12-01,Furniture,West,23619.98,3170.75,169
+2011-12-01,Furniture,Yukon,16892.01,326.0,158
+2011-12-01,Office Supplies,Atlantic,9017.33,2847.37,237
+2011-12-01,Office Supplies,Northwest Territories,600.22,27.86,50
+2011-12-01,Office Supplies,Ontario,11556.51,356.46,647
+2011-12-01,Office Supplies,Prarie,11720.51,802.55,459
+2011-12-01,Office Supplies,Quebec,17912.56,-617.36,419
+2011-12-01,Office Supplies,West,21086.98,3524.28,792
+2011-12-01,Office Supplies,Yukon,2711.3,-1465.33,117
+2011-12-01,Technology,Atlantic,2489.82,391.71,111
+2011-12-01,Technology,Northwest Territories,3019.41,1269.05,25
+2011-12-01,Technology,Nunavut,61.87,-50.33,8
+2011-12-01,Technology,Ontario,32072.2,4688.31,303
+2011-12-01,Technology,Prarie,11478.6,1963.74,125
+2011-12-01,Technology,Quebec,41027.87,11994.68,184
+2011-12-01,Technology,West,13530.12,3601.31,236
+2011-12-01,Technology,Yukon,7498.37,1552.55,119
+2012-01-01,Furniture,Atlantic,18982.06,5152.09,76
+2012-01-01,Furniture,Ontario,208.59,-19.79,22
+2012-01-01,Furniture,Prarie,46868.77,2969.92,298
+2012-01-01,Furniture,Quebec,55847.57,15103.9,233
+2012-01-01,Furniture,West,4771.18,-2.17,71
+2012-01-01,Furniture,Yukon,1510.59,-245.33,29
+2012-01-01,Office Supplies,Atlantic,17484.51,1628.09,310
+2012-01-01,Office Supplies,Northwest Territories,192.58,24.6,10
+2012-01-01,Office Supplies,Nunavut,257.19,-3.41,30
+2012-01-01,Office Supplies,Ontario,5127.52,315.33,364
+2012-01-01,Office Supplies,Prarie,20680.16,-949.91,689
+2012-01-01,Office Supplies,Quebec,22174.71,-9.66,459
+2012-01-01,Office Supplies,West,17252.89,5397.28,522
+2012-01-01,Office Supplies,Yukon,11230.6,2836.07,258
+2012-01-01,Technology,Atlantic,1124.43,-25.68,41
+2012-01-01,Technology,Northwest Territories,1652.61,-360.73,30
+2012-01-01,Technology,Ontario,19576.49,2265.63,293
+2012-01-01,Technology,Prarie,50292.65,10357.76,420
+2012-01-01,Technology,Quebec,1461.4,-357.81,15
+2012-01-01,Technology,West,43466.18,-866.92,296
+2012-01-01,Technology,Yukon,463.83,103.26,13
+2012-02-01,Furniture,Atlantic,6162.1,-2585.68,78
+2012-02-01,Furniture,Northwest Territories,6061.5,-69.55,62
+2012-02-01,Furniture,Nunavut,5126.01,-40.32,55
+2012-02-01,Furniture,Ontario,10650.99,-1063.33,165
+2012-02-01,Furniture,Prarie,17591.39,1840.45,165
+2012-02-01,Furniture,Quebec,27352.18,-2933.73,219
+2012-02-01,Furniture,West,43939.92,3065.7,198
+2012-02-01,Furniture,Yukon,5480.48,-1433.03,131
+2012-02-01,Office Supplies,Atlantic,1082.24,-345.89,40
+2012-02-01,Office Supplies,Northwest Territories,693.42,-167.99,96
+2012-02-01,Office Supplies,Ontario,14471.52,4184.72,561
+2012-02-01,Office Supplies,Prarie,9417.76,-678.89,383
+2012-02-01,Office Supplies,Quebec,4069.87,376.78,178
+2012-02-01,Office Supplies,West,10240.36,2238.01,549
+2012-02-01,Office Supplies,Yukon,1887.79,-54.58,153
+2012-02-01,Technology,Atlantic,10070.82,873.39,136
+2012-02-01,Technology,Northwest Territories,2695.53,364.59,86
+2012-02-01,Technology,Ontario,4236.1,444.84,107
+2012-02-01,Technology,Prarie,23358.98,4546.2,264
+2012-02-01,Technology,Quebec,21911.03,6252.37,210
+2012-02-01,Technology,West,48919.67,10222.09,279
+2012-02-01,Technology,Yukon,712.85,122.28,23
+2012-03-01,Furniture,Atlantic,7753.4,-6.12,76
+2012-03-01,Furniture,Ontario,6350.91,1255.16,61
+2012-03-01,Furniture,Prarie,20151.6,713.4,213
+2012-03-01,Furniture,Quebec,2463.25,-80.99,94
+2012-03-01,Furniture,West,36413.49,-3597.03,355
+2012-03-01,Furniture,Yukon,13612.59,-1034.8,117
+2012-03-01,Office Supplies,Atlantic,5907.45,-156.18,151
+2012-03-01,Office Supplies,Northwest Territories,1776.23,266.14,92
+2012-03-01,Office Supplies,Ontario,30712.99,10286.08,483
+2012-03-01,Office Supplies,Prarie,9800.73,2352.01,424
+2012-03-01,Office Supplies,Quebec,12889.78,-35.09,265
+2012-03-01,Office Supplies,West,40168.98,11231.79,863
+2012-03-01,Office Supplies,Yukon,3761.98,-472.42,193
+2012-03-01,Technology,Atlantic,6380.92,967.27,198
+2012-03-01,Technology,Northwest Territories,8686.94,3086.5,58
+2012-03-01,Technology,Ontario,36772.78,683.78,358
+2012-03-01,Technology,Prarie,57589.18,11037.43,324
+2012-03-01,Technology,Quebec,15375.6,6103.33,38
+2012-03-01,Technology,West,26376.21,-5263.16,294
+2012-03-01,Technology,Yukon,5263.32,299.03,180
+2012-04-01,Furniture,Atlantic,5796.44,-555.33,45
+2012-04-01,Furniture,Ontario,22562.28,-2792.94,185
+2012-04-01,Furniture,Prarie,23584.29,-3717.55,228
+2012-04-01,Furniture,Quebec,4723.82,-36.89,55
+2012-04-01,Furniture,West,3213.91,-119.27,107
+2012-04-01,Office Supplies,Atlantic,2449.1,71.74,237
+2012-04-01,Office Supplies,Northwest Territories,970.24,127.22,59
+2012-04-01,Office Supplies,Ontario,28010.76,3699.1,837
+2012-04-01,Office Supplies,Prarie,27641.76,9991.57,607
+2012-04-01,Office Supplies,Quebec,7877.83,2172.08,190
+2012-04-01,Office Supplies,West,19500.05,4210.21,434
+2012-04-01,Office Supplies,Yukon,1325.39,133.06,102
+2012-04-01,Technology,Atlantic,10583.28,1935.46,175
+2012-04-01,Technology,Northwest Territories,5368.29,-5799.32,63
+2012-04-01,Technology,Nunavut,3315.82,301.9,33
+2012-04-01,Technology,Ontario,46621.43,16709.16,654
+2012-04-01,Technology,Prarie,8342.12,276.27,113
+2012-04-01,Technology,Quebec,21486.71,4334.0,114
+2012-04-01,Technology,West,21054.85,-89.92,251
+2012-04-01,Technology,Yukon,3596.59,510.49,46
+2012-05-01,Furniture,Atlantic,6126.5,-703.79,56
+2012-05-01,Furniture,Northwest Territories,97.57,-27.31,4
+2012-05-01,Furniture,Ontario,46631.88,4444.98,229
+2012-05-01,Furniture,Prarie,23813.3,286.95,251
+2012-05-01,Furniture,Quebec,21971.3,-1175.65,104
+2012-05-01,Furniture,West,11928.37,-524.87,298
+2012-05-01,Office Supplies,Atlantic,13462.99,-811.47,346
+2012-05-01,Office Supplies,Northwest Territories,1035.73,-112.42,87
+2012-05-01,Office Supplies,Nunavut,3766.3,-794.38,61
+2012-05-01,Office Supplies,Ontario,25516.72,4279.0,693
+2012-05-01,Office Supplies,Prarie,24595.47,2018.0,937
+2012-05-01,Office Supplies,Quebec,4736.88,954.64,168
+2012-05-01,Office Supplies,West,9850.13,-644.49,748
+2012-05-01,Office Supplies,Yukon,3492.22,350.54,153
+2012-05-01,Technology,Atlantic,45563.99,11827.49,237
+2012-05-01,Technology,Northwest Territories,2419.44,99.9,27
+2012-05-01,Technology,Ontario,37643.12,6065.8,466
+2012-05-01,Technology,Prarie,69649.95,3687.15,227
+2012-05-01,Technology,Quebec,4686.78,173.07,88
+2012-05-01,Technology,West,18567.15,263.84,332
+2012-05-01,Technology,Yukon,9032.28,-285.54,95
+2012-06-01,Furniture,Atlantic,6932.8,782.17,125
+2012-06-01,Furniture,Northwest Territories,17862.33,-68.73,189
+2012-06-01,Furniture,Ontario,10573.01,186.74,111
+2012-06-01,Furniture,Prarie,13420.02,-181.97,88
+2012-06-01,Furniture,Quebec,547.32,42.39,28
+2012-06-01,Furniture,West,14285.56,-2884.13,268
+2012-06-01,Furniture,Yukon,11373.91,1685.66,89
+2012-06-01,Office Supplies,Atlantic,30633.87,6680.34,258
+2012-06-01,Office Supplies,Northwest Territories,320.57,16.21,33
+2012-06-01,Office Supplies,Nunavut,1029.2,115.39,43
+2012-06-01,Office Supplies,Ontario,11710.16,623.5,359
+2012-06-01,Office Supplies,Prarie,34838.15,3610.35,248
+2012-06-01,Office Supplies,Quebec,13472.63,895.79,215
+2012-06-01,Office Supplies,West,14345.89,210.83,577
+2012-06-01,Office Supplies,Yukon,5965.99,1697.15,186
+2012-06-01,Technology,Atlantic,20656.74,6760.36,249
+2012-06-01,Technology,Northwest Territories,6175.78,1881.58,49
+2012-06-01,Technology,Nunavut,1474.33,114.46,31
+2012-06-01,Technology,Ontario,9882.01,1910.04,135
+2012-06-01,Technology,Prarie,18512.46,3793.89,214
+2012-06-01,Technology,Quebec,8848.7,-881.44,107
+2012-06-01,Technology,West,23628.92,3501.28,303
+2012-06-01,Technology,Yukon,90.56,-37.58,6
+2012-07-01,Furniture,Atlantic,14214.98,-746.47,165
+2012-07-01,Furniture,Ontario,31947.7,-555.18,230
+2012-07-01,Furniture,Prarie,3097.74,-160.15,109
+2012-07-01,Furniture,Quebec,5194.04,-2842.85,59
+2012-07-01,Furniture,West,15459.01,-569.46,292
+2012-07-01,Furniture,Yukon,3514.01,761.94,15
+2012-07-01,Office Supplies,Atlantic,13461.3,3189.51,315
+2012-07-01,Office Supplies,Northwest Territories,24.96,-12.8,2
+2012-07-01,Office Supplies,Nunavut,385.8,-184.07,58
+2012-07-01,Office Supplies,Ontario,32803.48,4046.21,808
+2012-07-01,Office Supplies,Prarie,5355.76,366.51,445
+2012-07-01,Office Supplies,Quebec,3446.01,234.2,253
+2012-07-01,Office Supplies,West,14612.37,2292.36,604
+2012-07-01,Office Supplies,Yukon,14288.18,868.64,212
+2012-07-01,Technology,Atlantic,3269.09,-92.98,97
+2012-07-01,Technology,Northwest Territories,8551.54,2763.13,49
+2012-07-01,Technology,Ontario,5621.92,946.1,104
+2012-07-01,Technology,Prarie,36804.15,8160.9,278
+2012-07-01,Technology,Quebec,10162.79,2834.93,32
+2012-07-01,Technology,West,16197.75,3059.03,236
+2012-07-01,Technology,Yukon,4397.12,2034.09,56
+2012-08-01,Furniture,Atlantic,42289.6,-2913.63,150
+2012-08-01,Furniture,Northwest Territories,10132.13,-795.97,52
+2012-08-01,Furniture,Ontario,5853.51,-972.9,117
+2012-08-01,Furniture,Prarie,4914.97,-941.76,193
+2012-08-01,Furniture,Quebec,7874.46,438.92,55
+2012-08-01,Furniture,West,14598.2,-2465.17,196
+2012-08-01,Furniture,Yukon,9548.21,84.22,95
+2012-08-01,Office Supplies,Atlantic,19545.14,5067.22,459
+2012-08-01,Office Supplies,Northwest Territories,1067.67,-313.79,109
+2012-08-01,Office Supplies,Nunavut,161.51,1.04,45
+2012-08-01,Office Supplies,Ontario,12986.45,-1525.16,490
+2012-08-01,Office Supplies,Prarie,12728.58,1458.26,445
+2012-08-01,Office Supplies,Quebec,3826.45,-634.78,239
+2012-08-01,Office Supplies,West,11481.04,-2609.74,826
+2012-08-01,Office Supplies,Yukon,5647.9,30.58,287
+2012-08-01,Technology,Atlantic,15014.85,191.78,286
+2012-08-01,Technology,Northwest Territories,1350.53,221.18,24
+2012-08-01,Technology,Ontario,13356.77,2811.56,145
+2012-08-01,Technology,Prarie,12515.42,1515.76,157
+2012-08-01,Technology,Quebec,3504.14,1324.12,98
+2012-08-01,Technology,West,90698.73,12935.19,332
+2012-08-01,Technology,Yukon,3648.88,754.02,48
+2012-09-01,Furniture,Atlantic,27895.79,2679.99,186
+2012-09-01,Furniture,Northwest Territories,12158.52,4331.6,58
+2012-09-01,Furniture,Ontario,39568.65,-4277.87,260
+2012-09-01,Furniture,Prarie,9627.61,2653.43,180
+2012-09-01,Furniture,Quebec,9188.57,1429.72,114
+2012-09-01,Furniture,West,19744.51,-1777.97,170
+2012-09-01,Furniture,Yukon,149.51,-31.11,8
+2012-09-01,Office Supplies,Atlantic,11271.83,803.17,389
+2012-09-01,Office Supplies,Northwest Territories,546.88,-304.7,43
+2012-09-01,Office Supplies,Ontario,5370.88,594.17,445
+2012-09-01,Office Supplies,Prarie,11812.82,-638.43,563
+2012-09-01,Office Supplies,Quebec,7087.19,1253.8,447
+2012-09-01,Office Supplies,West,26362.99,2185.45,1076
+2012-09-01,Office Supplies,Yukon,2923.23,835.21,49
+2012-09-01,Technology,Atlantic,16395.21,1087.5,168
+2012-09-01,Technology,Northwest Territories,9193.91,2232.85,92
+2012-09-01,Technology,Ontario,46792.01,7347.3,412
+2012-09-01,Technology,Prarie,31507.66,7398.2,265
+2012-09-01,Technology,Quebec,13371.01,1989.42,72
+2012-09-01,Technology,West,14347.19,3691.09,157
+2012-09-01,Technology,Yukon,2955.59,1097.08,82
+2012-10-01,Furniture,Atlantic,2213.32,-85.13,47
+2012-10-01,Furniture,Northwest Territories,17526.43,1765.95,70
+2012-10-01,Furniture,Ontario,14999.77,366.85,174
+2012-10-01,Furniture,Prarie,24952.92,2129.08,157
+2012-10-01,Furniture,Quebec,7650.05,-224.72,98
+2012-10-01,Furniture,West,18753.22,-1612.0,313
+2012-10-01,Furniture,Yukon,22868.52,613.67,101
+2012-10-01,Office Supplies,Atlantic,11147.63,1348.38,437
+2012-10-01,Office Supplies,Northwest Territories,2542.57,742.83,92
+2012-10-01,Office Supplies,Nunavut,10688.25,534.36,130
+2012-10-01,Office Supplies,Ontario,20602.68,-800.6,476
+2012-10-01,Office Supplies,Prarie,15686.69,1249.72,805
+2012-10-01,Office Supplies,Quebec,5932.3,1193.34,152
+2012-10-01,Office Supplies,West,42314.73,3434.64,964
+2012-10-01,Office Supplies,Yukon,934.35,153.85,87
+2012-10-01,Technology,Atlantic,15346.75,2962.12,109
+2012-10-01,Technology,Northwest Territories,387.17,-204.65,7
+2012-10-01,Technology,Ontario,21589.68,-879.04,193
+2012-10-01,Technology,Prarie,28554.03,9451.96,182
+2012-10-01,Technology,Quebec,9079.91,848.3,86
+2012-10-01,Technology,West,35213.04,7034.91,360
+2012-10-01,Technology,Yukon,22262.71,-8886.31,84
+2012-11-01,Furniture,Atlantic,13781.22,-2232.94,105
+2012-11-01,Furniture,Northwest Territories,10668.85,549.41,70
+2012-11-01,Furniture,Ontario,43.94,-72.23,20
+2012-11-01,Furniture,Prarie,5562.35,140.05,87
+2012-11-01,Furniture,Quebec,4274.5,-192.83,121
+2012-11-01,Furniture,West,25745.66,-1055.49,225
+2012-11-01,Furniture,Yukon,1736.41,-762.44,12
+2012-11-01,Office Supplies,Atlantic,7340.02,1485.83,291
+2012-11-01,Office Supplies,Northwest Territories,27240.83,9121.92,161
+2012-11-01,Office Supplies,Ontario,27019.25,7057.15,417
+2012-11-01,Office Supplies,Prarie,5237.04,-9.87,373
+2012-11-01,Office Supplies,Quebec,2186.13,619.48,98
+2012-11-01,Office Supplies,West,8990.89,1802.16,360
+2012-11-01,Office Supplies,Yukon,1760.61,-45.04,153
+2012-11-01,Technology,Atlantic,25648.11,11553.55,142
+2012-11-01,Technology,Northwest Territories,11303.68,-1517.21,120
+2012-11-01,Technology,Ontario,4548.45,642.0,111
+2012-11-01,Technology,Prarie,32463.43,1900.54,177
+2012-11-01,Technology,Quebec,3822.01,37.71,34
+2012-11-01,Technology,West,18695.39,-3157.63,160
+2012-11-01,Technology,Yukon,17951.33,1678.93,118
+2012-12-01,Furniture,Atlantic,12922.08,108.2,234
+2012-12-01,Furniture,Ontario,51552.1,2245.13,236
+2012-12-01,Furniture,Prarie,13820.22,-1616.65,54
+2012-12-01,Furniture,Quebec,31881.91,-9853.2,96
+2012-12-01,Furniture,West,25892.78,-995.99,276
+2012-12-01,Furniture,Yukon,7031.45,371.44,32
+2012-12-01,Office Supplies,Atlantic,7589.77,-1720.09,201
+2012-12-01,Office Supplies,Northwest Territories,281.84,-21.85,19
+2012-12-01,Office Supplies,Ontario,5173.19,-588.78,425
+2012-12-01,Office Supplies,Prarie,8632.14,-542.88,308
+2012-12-01,Office Supplies,Quebec,31277.25,11528.88,236
+2012-12-01,Office Supplies,West,27203.49,5188.66,863
+2012-12-01,Office Supplies,Yukon,3087.9,254.24,181
+2012-12-01,Technology,Atlantic,3654.92,592.31,55
+2012-12-01,Technology,Northwest Territories,606.54,-149.74,35
+2012-12-01,Technology,Ontario,21122.88,6565.42,111
+2012-12-01,Technology,Prarie,34785.46,1995.85,230
+2012-12-01,Technology,Quebec,38938.73,5267.53,130
+2012-12-01,Technology,West,24892.47,1832.28,191
+2012-12-01,Technology,Yukon,4362.21,832.18,47
